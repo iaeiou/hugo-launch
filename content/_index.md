@@ -6,11 +6,11 @@ header_button_cta:
   title: "Get in touch"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
+  title: "Why this is sooo awesome?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# The Future - Tooooday!
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
